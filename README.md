@@ -19,11 +19,12 @@ Welcome to my digital workshop where code comes to life! I'm a passionate develo
 
 ## 🛠 **My Tech Toolbox**
 
-- **Programming Languages**: JavaScript, Python, Java, R, C  
+- **Programming Languages**: JavaScript, Python, Java, R, C
 - **Web Technologies**: React, Node.js, Express.js, EJS, Next.js, PHP  
 - **Databases**: MongoDB, MySQL, PostgreSQL  
 - **DevOps**: Docker, Kafka, CI/CD pipelines  
-- **Frameworks**: Spring Boot, TensorFlow, PyTorch, Ultralytics, crewAI  
+- **Frameworks**: Spring Boot, TensorFlow, PyTorch, Ultralytics, crewAI
+- **Mobile Technologies**: Swift, Swift Storyboards
 - **Other Tools**: ROS, Git, Streamlit  
 
 --- 
