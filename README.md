@@ -14,6 +14,7 @@ Welcome to my digital workshop where code comes to life! I'm a passionate develo
 
 ✨ From crafting **microservices** to designing intuitive **user experiences**, I love creating projects that merge functionality with elegance.  
 📚 Currently exploring **AI/ML** applications and **system design**, with a focus on **scalability** and **performance optimization**.  
+🤖 Currently working on CLAII!, the Command Line Artificial Intelligence Interface
 
 ---
 
@@ -23,9 +24,9 @@ Welcome to my digital workshop where code comes to life! I'm a passionate develo
 - **Web Technologies**: React, Node.js, Express.js, EJS, Next.js, PHP  
 - **Databases**: MongoDB, MySQL, PostgreSQL  
 - **DevOps**: Docker, Kafka, CI/CD pipelines  
-- **Frameworks**: Spring Boot, TensorFlow, PyTorch, Ultralytics, crewAI
+- **Frameworks**: Spring Boot, TensorFlow, PyTorch, Ultralytics, crewAI, LangChain
 - **Mobile Technologies**: Swift, Swift Storyboards
-- **Other Tools**: ROS, Git, Streamlit  
+- **Other Tools**: ROS, Git, Streamlit
 
 --- 
 ## 🏆 **GitHub Stats**
